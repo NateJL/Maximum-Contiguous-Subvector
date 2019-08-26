@@ -17,7 +17,7 @@ to run <b>driver.py</b> from the command line is:
 
 `python driver.py name of algorithm XXXX`
 
-where `name of algorithm` is a method definition in <b>max subarray.py</b> and `XXXX`
+where `name_of_algorithm` is a method definition in <b>max subarray.py</b> and `XXXX`
 is an integer to specify the size of the array to test on. The output of the driver
 program is the maximum sum returned from the method you called from the
 command line as well as the time it took for the algorithm to run in seconds.
