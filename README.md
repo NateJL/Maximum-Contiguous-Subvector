@@ -15,9 +15,9 @@ The <b>driver.py</b> file is used to measure the run-times of each algorithm. Th
 of the method for the algorithm and the size of the array to test. The command
 to run <b>driver.py</b> from the command line is:
 
-'python driver.py name of algorithm XXXX'
+`python driver.py name of algorithm XXXX`
 
-where 'name of algorithm' is a method definition in <b>max subarray.py</b> and 'XXXX'
+where `name of algorithm` is a method definition in <b>max subarray.py</b> and `XXXX`
 is an integer to specify the size of the array to test on. The output of the driver
 program is the maximum sum returned from the method you called from the
 command line as well as the time it took for the algorithm to run in seconds.
